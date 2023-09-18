@@ -8,8 +8,6 @@ Using SQLite, I created  adatabse for Question, Answer, and Tags data. This data
 ## Data Visualizations
 Using PowerBI, I created a few tabs of vizualizations that show interesting insight, I also created some drill throughs so you can look through indivdual Questions and answers
 
-![alt text](https://github.com/scheott/Spotify_Song_Predictor/blob/main/Screenshot%202023-02-06%20195635.png)
-
 ## Conclusion
 In conlcusion, I gained a lot of knowledge about Databases and gained confidence in SQL, there were a lot of interesting insights gathered from questions and answers in StackOverflow.
 
