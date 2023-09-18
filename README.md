@@ -11,6 +11,6 @@ Using PowerBI, I created a few tabs of vizualizations that show interesting insi
 ## Conclusion
 In conlcusion, I gained a lot of knowledge about Databases and gained confidence in SQL, there were a lot of interesting insights gathered from questions and answers in StackOverflow.
 
-![alt text](https://github.com/scheott/Spotify_Song_Predictor/blob/main/Screenshot%202023-02-05%20220729.png)
+![alt text](https://github.com/scheott/StackOverflowAnalyzed/blob/main/Screenshot%202023-09-17%20204941.png)
 
 ### Thanks for taking a look!
